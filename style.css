@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+td,th{
+    border: solid 1px black;
+    padding: 8px;
+}
+thead{
+    background-color: aqua;
+}
+
+
+table{
+    border-collapse: collapse;
+
+}
+.premierT{
+background-color: blueviolet;
+}
+.header1 img {
+    width: 100%;
+
+}
+
+nav{
+    padding-top: 10px;
+    margin: 20px;
+    text-align: center;
+    float : right;
+    top: 0;
+    right: 0;
+    background-color: aqua;
+}
+nav a{
+        margin: 50px ;
+    }
+.header1
+{
+    background-color:gray;
+    padding: 20px;
+    margin-top: 15px;
+    background-image: url("img/p3.jpg");
+    background-size: contain;
+    
+    
+}
+span{
+    background-color: bisque;
+    
+}
+
+.main{
+ background-color: lightgray;
+ padding: 20px;
+}
+.fin
+{
+ background:gray;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: rosybrown;
+}
+.aligneleft{
+    float: left;
+    margin-right: 15px;
+    
+}
+.aligneright
+{
+    float: right;
+    margin-left: 150px;
+    
+}
+hr{
+    clear: both;
+}
+.transformer{
+    transition: transform 2s;
+}
+.transformer:hover{
+    transform: scale(1.1) rotate(10deg);
+}
+
+    
+
